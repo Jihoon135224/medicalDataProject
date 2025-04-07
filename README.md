@@ -1,6 +1,4 @@
-# medicalDataProject
-
-# 프로젝트 제안서
+# medicalDataProject - 프로젝트 제안서
 
 ## 1. 프로젝트 개요
 - **프로젝트 이름** : 웹페이지에서의 방문자 수 기록
